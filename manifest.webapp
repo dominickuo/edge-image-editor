@@ -1,7 +1,7 @@
 {
   "name": "Image editor",
   "short_name": "Image editor",
-  "start_url":  "http://13.112.129.11:3000/image_processing/view",
+  "start_url":  "http://10.42.0.1:3002/image_processing/view",
   "fullscreen": true,
   "theme":"#000000",
   "cursor": true,
