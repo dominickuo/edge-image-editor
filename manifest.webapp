@@ -5,6 +5,9 @@
   "fullscreen": true,
   "theme":"#000000",
   "default_locale": "en-US",
+  "permissions": {
+    "spatialnavigation-app-manage": {}
+  },
   "icons": {
     "56": "https://dominickuo.github.io/edge-image-editor/512.png",
     "128": "https://dominickuo.github.io/edge-image-editor/512.png" 
