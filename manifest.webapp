@@ -1,0 +1,14 @@
+{
+  "name": "Image editor",
+  "short_name": "Image editor",
+  "start_url":  "http://13.112.129.11:3000/image_processing/view",
+  "fullscreen": true,
+  "theme":"#000000",
+  "cursor": true,
+  "default_locale": "en-US",
+  "icons": {
+    "56": "https://dominickuo.github.io/edge-image-editor/512.png",
+    "128": "https://dominickuo.github.io/edge-image-editor/512.png" 
+  }
+}
+
