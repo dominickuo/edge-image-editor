@@ -8,9 +8,18 @@
   "permissions": {
     "spatialnavigation-app-manage": {}
   },
+  "activities": {
+    "edit": {
+      "filters": {
+        "type": ["image/jpeg", "image/png", "image/gif", "image/bmp"]
+       },
+      "disposition": "inline",
+      "returnValue": true,
+      "href": "/image_processing/view/"
+    }
+  },
   "icons": {
     "56": "https://dominickuo.github.io/edge-image-editor/512.png",
-    "128": "https://dominickuo.github.io/edge-image-editor/512.png" 
+    "128": "https://dominickuo.github.io/edge-image-editor/512.png"
   }
 }
-
